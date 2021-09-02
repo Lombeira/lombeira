@@ -1,6 +1,6 @@
 <h1 align="center">
-  Hello, friend!
-  <a href="#"><img src="https://media.giphy.com/media/CXzRJA18RJAtmpPNBC/giphy.gif" width="48"></a>
+  I type like a Mad men.
+  <a href="#"><img src="https://media1.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e479uldx8slnaanoq3k62geghvhougif1qxc1adircz&rid=giphy.gif&ct=g" width="250"></a>
 </h1>
 
 <p align="center">   
@@ -81,7 +81,7 @@
 <br/>
 
 <p align="center">
-  <a href="#"><img src="https://media1.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e479uldx8slnaanoq3k62geghvhougif1qxc1adircz&rid=giphy.gif&ct=g" width="250"></a>
+  <a href="#"><img src="></a>
 </p>
 
 <div>
