@@ -20,8 +20,6 @@
 
 <br/>
 
-
-
   <div align="center">
     <a href="#"><img alt="Lombeira's Github Stats" src="https://github-readme-stats.vercel.app/api?username=lombeira&show_icons=true&include_all_commits=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" width="49%"/></a>
     <a href="#"><img alt="Lombeira's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lombeira&langs_count=10&layout=compact&theme=react&hide_border=true&bg_color=0D1117&title_color=F0DB4F&icon_color=F0DB4F" width="49%"/></a>
@@ -35,9 +33,8 @@
   <hr/>
 
   <div>
-    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lombeira&custom_title=Glauco%Lomenha's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
+    <a href="#"><img alt="Yashita's Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=lombeira&custom_title=Glauco%20Lomenha's%20Contribution%20Graph&bg_color=0D1117&color=F0DB4F&line=FFFFFF&point=F0DB4F&hide_border=true" /></a>
   <div> 
-
 
 <br/>
 
@@ -75,14 +72,6 @@
 </p>
 
 <br/>
-
-<br/>
-
-<hr/>
-
-<br/>
-
-
 
 <div>
   <img src="./bottom_header.svg">
