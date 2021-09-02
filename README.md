@@ -71,8 +71,6 @@
   <a href="#"><img src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=flat-square&logo=Raspberry-Pi&logoColor=F0DB4F"></a>
 </p>
 
-<br/>
-
 <div>
   <img src="./bottom_header.svg">
 </div>
