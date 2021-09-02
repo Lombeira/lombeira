@@ -1,5 +1,5 @@
 <p align="center">
-  <a href="#"><img src="https://media1.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e479uldx8slnaanoq3k62geghvhougif1qxc1adircz&rid=giphy.gif&ct=g" width="250"></a>
+  <a href="#"><img src="https://media1.giphy.com/media/MdA16VIoXKKxNE8Stk/giphy.gif?cid=ecf05e479uldx8slnaanoq3k62geghvhougif1qxc1adircz&rid=giphy.gif&ct=g" width="180"></a>
 </p>
 <h1 align="center">
   I type like a mad men.
