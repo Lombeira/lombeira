@@ -52,23 +52,23 @@
   <a href="#"><img src="https://img.shields.io/badge/-Nodejs-0D1117?style=flat-square&logo=Node.js&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-Python-0D1117?style=flat-square&logo=Python&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Bash%20-%230D1117.svg?style=flat-square&logo=gnu-bash&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Markdown-%230D1117.svg?style=flat-square&logo=markdown&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-0D1117?style=flat-square&logo=mongodb&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=Redis&logoColor=F0DB4F"></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/-Redis-0D1117?style=flat-square&logo=Redis&logoColor=F0DB4F"></a> -->
   <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-0D1117?style=flat-square&logo=postgresql&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-MySQL-0D1117?style=flat-square&logo=mysql&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/SQL%20-%230D1117.svg?style=flat-square&logo=amazon-dynamodb&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F"></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/-Docker-0D1117?style=flat-square&logo=docker&logoColor=F0DB4F"></a> -->
   <a href="#"><img src="https://img.shields.io/badge/GitHub%20Pages-%230D1117.svg?style=flat-square&logo=github&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=flat-square&logo=digitalocean&logoColor=F0DB4F"></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/-Digital%20Ocean-0D1117?style=flat-square&logo=digitalocean&logoColor=F0DB4F"></a> -->
   <a href="#"><img src="https://img.shields.io/badge/-Heroku-0D1117?style=flat-square&logo=heroku&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Vercel%20-%230D1117.svg?style=flat-square&logo=vercel&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/Amazon%20AWS-0D1117?style=flat-square&logo=amazon-aws&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/Microsoft%20Azure-0D1117?style=flat-square&logo=microsoft-azure&logoColor=F0DB4F"></a> -->
+  <a href="#"><img src="https://img.shields.io/badge/-Git-0D1117?style=flat-square&logo=git&logoColor=F0DB4F"></a>
   <a href="#"><img src="https://img.shields.io/badge/-GitHub-0D1117?style=flat-square&logo=github&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Arduino-0D1117?style=flat-square&logo=Arduino&logoColor=F0DB4F"></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=flat-square&logo=Raspberry-Pi&logoColor=F0DB4F"></a>
+<!--   <a href="#"><img src="https://img.shields.io/badge/-Arduino-0D1117?style=flat-square&logo=Arduino&logoColor=F0DB4F"></a> -->
+<!--   <a href="#"><img src="https://img.shields.io/badge/-Raspberry%20Pi-0D1117?style=flat-square&logo=Raspberry-Pi&logoColor=F0DB4F"></a> -->
 </p>
 
 <div>
